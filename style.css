@@ -1,0 +1,59 @@
+body {
+    background-color: #FEB647;
+}
+
+.body {
+    background-color: #F9F7F7;
+    height: 100%;
+    margin-top: 50px;
+    border-radius: 20px;
+    margin: 30px;
+    border: 3px solid;
+    box-shadow: -11px -9px;
+    
+
+}
+
+.nav-link{
+    color: black;
+}
+
+#top img {
+    border-radius: 20px;
+    border: 3px solid;
+    box-shadow: -11px -9px;
+}
+
+
+
+.icon-square {
+  width: 3rem;
+  height: 3rem;
+  border-radius: .75rem;
+}
+
+.gradient-background {
+    background: linear-gradient(300deg, #00bfff, #FEB647, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 5s ease infinite;
+    box-shadow: -11px -9px;
+    border: 3px solid;
+    
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 10% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  /* .lead{
+    border: 3px solid;
+    padding
+  } */
