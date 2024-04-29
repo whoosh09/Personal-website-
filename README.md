@@ -1,7 +1,9 @@
-# Personal-website-
+# Personal-website
 Personal website project ( static )
 
-framework used in this project
+Hello, this is my first personal website written in html and css
 
--Bootstrap
+also the framework that used in this project is Bootstrap
+
+
 
